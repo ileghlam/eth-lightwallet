@@ -1,6 +1,6 @@
 {
   "name": "eth-light",
-  "version": "2.5.6",
+  "version": "2.5.7",
   "description": "A lightweight ethereum javascript wallet.",
   "main": "index.js",
   "repository": {
@@ -8,8 +8,6 @@
     "url": "https://github.com/ConsenSys/eth-lightwallet.git"
   },
   "scripts": {
-    "build-js": "browserify index.js --s lightwallet -g [ babelify --presets [ es2015 react ] ] | uglifyjs -c > dist/lightwallet.min.js",
-    "build-dev": "browserify index.js -o dist/lightwallet.js --s lightwallet -g [ babelify --presets [ es2015 react ] ]",
     "test": "./node_modules/.bin/mocha --reporter spec",
     "coverage": "istanbul cover _mocha -- -R spec; open coverage/lcov-report/index.html"
   },
