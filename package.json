@@ -58,15 +58,9 @@
   "dependencies": {
     "bitcore-lib": "^0.14.0",
     "bitcore-mnemonic-en": "^1.2.3",
-    "buffer": "^4.9.0",
     "crypto-js": "^3.1.5",
     "elliptic": "^3.1.0",
-    "ethereumjs-tx": "^1.1.1",
-    "ethereumjs-util": "^5.1.1",
-    "rlp": "^2.0.0",
-    "scrypt-async": "^1.2.0",
-    "tweetnacl": "0.13.2",
-    "web3": "^0.19.1"
+    "tweetnacl": "0.13.2"
   },
   "devDependencies": {
     "async": "^1.4.2",
