@@ -1,6 +1,6 @@
 {
   "name": "eth-light",
-  "version": "2.5.9",
+  "version": "2.5.10",
   "description": "A lightweight ethereum javascript wallet.",
   "main": "index.js",
   "repository": {
@@ -62,7 +62,7 @@
     "bitcore-mnemonic-en": "^1.2.3",
     "crypto-js": "^3.1.5",
     "elliptic": "^3.1.0",
-    "scrypt-async": "^1.3.1",
+    "scrypt-async": "^1.2.0",
     "tweetnacl": "0.13.2"
   },
   "devDependencies": {
