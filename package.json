@@ -1,5 +1,5 @@
 {
-  "name": "eth-lightwallet",
+  "name": "eth-light",
   "version": "2.5.6",
   "description": "A lightweight ethereum javascript wallet.",
   "main": "index.js",
@@ -52,6 +52,10 @@
     {
       "name": "Milad Mostavi",
       "email": "milad.mostavi@gmail.com"
+    },
+    {
+      "name": "Leghlam Ishak",
+      "email": "ishak@dether.io"
     }
   ],
   "license": "MIT",
