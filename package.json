@@ -1,6 +1,6 @@
 {
   "name": "eth-light",
-  "version": "2.5.8",
+  "version": "2.5.9",
   "description": "A lightweight ethereum javascript wallet.",
   "main": "index.js",
   "repository": {
