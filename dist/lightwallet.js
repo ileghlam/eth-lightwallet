@@ -200,7 +200,7 @@ var ec = new EC('secp256k1');
 var bitcore = require('bitcore-lib');
 var Random = bitcore.crypto.Random;
 var Hash = bitcore.crypto.Hash;
-var Mnemonic = require('bitcore-mnemonic');
+var Mnemonic = require('bitcore-mnemonic-en');
 var nacl = require('tweetnacl');
 var scrypt = require('scrypt-async');
 
@@ -1052,7 +1052,7 @@ var ec = new EC('secp256k1');
 var bitcore = require('bitcore-lib');
 var Random = bitcore.crypto.Random;
 var Hash = bitcore.crypto.Hash;
-var Mnemonic = require('bitcore-mnemonic');
+var Mnemonic = require('bitcore-mnemonic-en');
 var nacl = require('tweetnacl');
 var scrypt = require('scrypt-async');
 
